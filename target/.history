@@ -1,0 +1,24 @@
+publishSigned
+pgp-cmd gen-key
+set pgpReadOnly := false
+pgp-cmd gen-key
+pgp-cmd send-key ${janaty} hkp://pool.sks-keyservers.net
+pgp-cmd send-key $janaty hkp://pool.sks-keyservers.net
+gpg --list-keys
+pgp --list-keys
+pgp-cmd send-key janaty hkp://pool.sks-keyservers.net
+publishSigned
+pgp-cmd send-key janaty hkp://pool.sks-keyservers.net
+publishSigned
+sonatypeRelease
+publishSigned
+sonatypeRelease
+publishSigned
+sonatypeRelease
+publishSigned
+sonatypeRelease
+sonatypeList
+sonatypeStagingProfiles
+sonatypePromote
+publishSigned
+sonatypeRelease

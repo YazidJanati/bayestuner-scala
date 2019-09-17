@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/yazidjanati/Desktop/stage/bopt/bayesian-optimization/src/main/scala/Main.scala:21:41: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Array[(Int, Int, String)][0m
+[0m[[0m[31merror[0m] [0m[0m required: Array[(Double, Double, String)][0m
+[0m[[0m[31merror[0m] [0m[0mError occurred in an application involving default arguments.[0m
+[0m[[0m[31merror[0m] [0m[0m                                        bounds,[0m
+[0m[[0m[31merror[0m] [0m[0m                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

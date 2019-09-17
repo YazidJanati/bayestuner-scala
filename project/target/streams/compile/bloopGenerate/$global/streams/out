@@ -1,0 +1,4 @@
+[debug] [bayesian-optimization-build] Classpath dependencies List()
+[debug] [bayesian-optimization-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'bayesian-optimization-build' to '/Users/yazidjanati/Desktop/stage/bopt/bayesian-optimization/project/.bloop/bayesian-optimization-build.json'
+[success] Generated .bloop/bayesian-optimization-build.json

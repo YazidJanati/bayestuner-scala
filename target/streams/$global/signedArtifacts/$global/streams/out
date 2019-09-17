@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mgpg: [don't know]: invalid packet (ctb=2d)[0m
+[0m[[0m[31merror[0m] [0m[0mgpg: keydb_search failed: Invalid packet[0m
+[0m[[0m[31merror[0m] [0m[0mgpg: no default secret key: Invalid packet[0m
+[0m[[0m[31merror[0m] [0m[0mgpg: signing failed: Invalid packet[0m
