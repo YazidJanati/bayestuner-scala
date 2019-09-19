@@ -5,15 +5,30 @@ import breeze.numerics._
 import dk.gp.gpr._
 import breeze.optimize._
 
-
+/** All classes inheriting from this abstract class are modeling acquisition functions.
+ *
+ *  @param temperature exploration rate. For EI it's None.
+ *  @param i parameter that controls the exploration rate.
+ *
+ */
 abstract class Acquisition(i : Int,
                            temperature: Option[Int => Double]) {
 
 
+  /** Evaluates the acquisition function at a certain vector z.
+   *
+   *  @param       z          vector at which you want to evaluate the acquisition
+   *  @param       gp         gaussian process from which you get the mean and variance.
+   *  @param       past_evals past visited points by the bayesian tuner.
+   *  @return      evaluation of the acquisition at z. 
+   */
   def eval(z: DenseVector[Double],
             gp: GprModel,
             past_evals : DenseVector[Double]): Double
 }
+
+/** Upper Confidence Bound acquisition function.
+ */
 
 class UCB(i: Int,
           temperature: Option[Int => Double])
@@ -37,6 +52,9 @@ class UCB(i: Int,
       mean(0) + temp(i) * std_dev
             }
 }
+
+/** Expected Improvement acquisition function.
+ */
 
 class ExpectedImprovement(i: Int,
                           temperature: Option[Int => Double])

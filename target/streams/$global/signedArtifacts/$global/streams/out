@@ -1,4 +1,37 @@
-[0m[[0m[31merror[0m] [0m[0mgpg: [don't know]: invalid packet (ctb=2d)[0m
-[0m[[0m[31merror[0m] [0m[0mgpg: keydb_search failed: Invalid packet[0m
-[0m[[0m[31merror[0m] [0m[0mgpg: no default secret key: Invalid packet[0m
-[0m[[0m[31merror[0m] [0m[0mgpg: signing failed: Invalid packet[0m
+[0m[[0m[31merror[0m] [0m[0mjava.lang.RuntimeException: Empty passphrase. aborting...[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.sys.package$.error(package.scala:26)[0m
+[0m[[0m[31merror[0m] [0m[0m	at com.typesafe.sbt.pgp.SbtPgpCommandContext.inputPassphrase(SbtPgpCommandContext.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m	at com.typesafe.sbt.pgp.SbtPgpCommandContext.$anonfun$withPassphrase$3(SbtPgpCommandContext.scala:41)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.Option.getOrElse(Option.scala:121)[0m
+[0m[[0m[31merror[0m] [0m[0m	at com.typesafe.sbt.pgp.SbtPgpCommandContext.$anonfun$withPassphrase$2(SbtPgpCommandContext.scala:41)[0m
+[0m[[0m[31merror[0m] [0m[0m	at com.typesafe.sbt.pgp.Cache.$anonfun$withValue$1(SbtHelpers.scala:39)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.Option.getOrElse(Option.scala:121)[0m
+[0m[[0m[31merror[0m] [0m[0m	at com.typesafe.sbt.pgp.Cache.withValue(SbtHelpers.scala:38)[0m
+[0m[[0m[31merror[0m] [0m[0m	at com.typesafe.sbt.pgp.Cache.withValue$(SbtHelpers.scala:36)[0m
+[0m[[0m[31merror[0m] [0m[0m	at com.typesafe.sbt.pgp.PasswordCache$.withValue(SbtHelpers.scala:55)[0m
+[0m[[0m[31merror[0m] [0m[0m	at com.typesafe.sbt.pgp.SbtPgpCommandContext.$anonfun$withPassphrase$1(SbtPgpCommandContext.scala:41)[0m
+[0m[[0m[31merror[0m] [0m[0m	at com.typesafe.sbt.pgp.SbtPgpCommandContext.retry(SbtPgpCommandContext.scala:49)[0m
+[0m[[0m[31merror[0m] [0m[0m	at com.typesafe.sbt.pgp.SbtPgpCommandContext.withPassphrase(SbtPgpCommandContext.scala:38)[0m
+[0m[[0m[31merror[0m] [0m[0m	at com.typesafe.sbt.pgp.BouncyCastlePgpSigner.sign(PgpSigner.scala:40)[0m
+[0m[[0m[31merror[0m] [0m[0m	at com.typesafe.sbt.pgp.PgpSettings$.$anonfun$signingSettings$2(PgpSettings.scala:157)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.collection.TraversableLike.$anonfun$flatMap$1(TraversableLike.scala:240)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.collection.immutable.Map$Map4.foreach(Map.scala:233)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.collection.TraversableLike.flatMap(TraversableLike.scala:240)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.collection.TraversableLike.flatMap$(TraversableLike.scala:237)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.collection.AbstractTraversable.flatMap(Traversable.scala:104)[0m
+[0m[[0m[31merror[0m] [0m[0m	at com.typesafe.sbt.pgp.PgpSettings$.$anonfun$signingSettings$1(PgpSettings.scala:154)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.Function1.$anonfun$compose$1(Function1.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.internal.util.$tilde$greater.$anonfun$$u2219$1(TypeFunctions.scala:40)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.std.Transform$$anon$4.work(System.scala:67)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Execute.$anonfun$submit$2(Execute.scala:269)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:16)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Execute.work(Execute.scala:278)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Execute.$anonfun$submit$1(Execute.scala:269)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:178)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.CompletionService$$anon$2.call(CompletionService.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.util.concurrent.FutureTask.run(FutureTask.java:266)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.util.concurrent.FutureTask.run(FutureTask.java:266)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.lang.Thread.run(Thread.java:745)[0m

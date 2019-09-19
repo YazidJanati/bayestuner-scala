@@ -14,7 +14,7 @@ scalaVersion := "2.11.12"
 
 name := "bopt"
 organization := "com.LIPN"
-version := "0.1"
+version := "0.2"
 
 // Note, it's not required for you to define these three settings. These are
 // mostly only necessary if you intend to publish your library's binaries on a
@@ -49,16 +49,18 @@ libraryDependencies += "com.github.danielkorzekwa" %% "bayes-scala-gp" % "0.1-SN
 
 resolvers += Resolver.sonatypeRepo("snapshots")
 
+updateOptions := updateOptions.value.withLatestSnapshots(false)
+
 libraryDependencies += "com.novocode" % "junit-interface" % "0.8" % "test->default"
 
 
 libraryDependencies += "com.github.haifengl" %% "smile-scala" % "1.5.1"
 
 // POM settings for Sonatype
-organization := "com.github.bayestuner"
-homepage := Some(url("https://github.com/yazidjanati/bayestuner"))
-scmInfo := Some(ScmInfo(url("https://github.com/yazidjanati/bayestuner")
-                            ,"git@github.com:yazidjanati/bayestuner.git"))
+organization := "com.github.yazidjanati"
+homepage := Some(url("https://github.com/yazidjanati/bayestuner-scala"))
+scmInfo := Some(ScmInfo(url("https://github.com/yazidjanati/bayestuner-scala")
+                            ,"git@github.com:yazidjanati/bayestuner-scala.git"))
 developers := List(Developer("janaty",
                              "yazid janati",
                              "janati.yazid@gmail.com",

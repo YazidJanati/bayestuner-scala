@@ -22,3 +22,12 @@ sonatypeStagingProfiles
 sonatypePromote
 publishSigned
 sonatypeRelease
+publishSigned
+sonatypeRelease
+publishSigned
+sonatypeRelease
+publishSigned
+sonatypeRelease
+run 
+publishSigned
+sonatypeRelease

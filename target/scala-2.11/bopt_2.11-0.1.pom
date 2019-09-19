@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.github.bayestuner</groupId>
+    <groupId>com.github.yazidjanati</groupId>
     <artifactId>bopt_2.11</artifactId>
     <packaging>jar</packaging>
     <description>bopt</description>
-    <url>https://github.com/yazidjanati/bayestuner</url>
+    <url>https://github.com/yazidjanati/bayestuner-scala</url>
     <version>0.1</version>
     <licenses>
         <license>
@@ -16,12 +16,12 @@
     </licenses>
     <name>bopt</name>
     <organization>
-        <name>com.github.bayestuner</name>
-        <url>https://github.com/yazidjanati/bayestuner</url>
+        <name>com.github.yazidjanati</name>
+        <url>https://github.com/yazidjanati/bayestuner-scala</url>
     </organization>
     <scm>
-        <url>https://github.com/yazidjanati/bayestuner</url>
-        <connection>git@github.com:yazidjanati/bayestuner.git</connection>
+        <url>https://github.com/yazidjanati/bayestuner-scala</url>
+        <connection>git@github.com:yazidjanati/bayestuner-scala.git</connection>
     </scm>
     <developers>
         <developer>

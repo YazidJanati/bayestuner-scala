@@ -1,0 +1,6 @@
+#FileLock
+#Wed Sep 18 15:01:31 CEST 2019
+hostName=10.2.2.32
+id=16d4476abf78265e560115f0dc6d43e955a31e06746
+method=file
+server=10.2.2.32\:56555

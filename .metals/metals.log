@@ -1,0 +1,110 @@
+INFO  time: initialize in 0.65s
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Optimizer.scala
+INFO  no build target: using presentation compiler with only scala-library
+sept. 18, 2019 3:01:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+GRAVE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.NoSuchFileException: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/deprecated.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionAbsolutePathMetals.toInput(MtagsEnrichments.scala:94)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionAbsolutePathBuffers.toInputFromBuffers(MetalsEnrichments.scala:285)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPC$1(Compilers.scala:261)
+	at scala.Option.map(Option.scala:163)
+	at scala.meta.internal.metals.Compilers.withPC(Compilers.scala:259)
+	at scala.meta.internal.metals.Compilers.hover(Compilers.scala:158)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$hover$1(MetalsLanguageServer.scala:768)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:36)
+	at scala.meta.internal.metals.MetalsLanguageServer.hover(MetalsLanguageServer.scala:766)
+	... 16 more
+
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Initialization.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Chooser.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Bound.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/BayesianTuner.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Acquisition.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/BayesianTuner.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Main.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Initialization.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Chooser.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Bound.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Chooser.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Bound.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Acquisition.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Main.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Initialization.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Acquisition.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Acquisition.scala in Option[Int => Double]RangePosition(file:///Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Acquisition.scala, 1084, 1084, 1105)
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Bound.scala
+something's wrong: no file:///Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Bound.scala in Array[(Double, Double, String)]RangePosition(file:///Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Bound.scala, 571, 571, 600)
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Chooser.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Initialization.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Chooser.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Optimizer.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Acquisition.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Bound.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Acquisition.scala
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Chooser.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Bound.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Chooser.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Acquisition.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Chooser.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Bound.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Acquisition.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Main.scala
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Initialization.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Initialization.scala
+WARN  no build target: 

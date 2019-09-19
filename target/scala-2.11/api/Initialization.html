@@ -49,7 +49,9 @@
       </span>
       </h4>
       
-          <div id="comment" class="fullcommenttop"><div class="toggleContainer block">
+          <div id="comment" class="fullcommenttop"><div class="comment cmt"><p>The gaussian process regression needs to be initialized with some points in
+    the input space. This class models the initialization strategy.
+</p></div><div class="toggleContainer block">
           <span class="toggle">Linear Supertypes</span>
           <div class="superTypes hiddenContent"><span class="extype" name="scala.AnyRef">AnyRef</span>, <span class="extype" name="scala.Any">Any</span></div>
         </div><div class="toggleContainer block">
@@ -115,7 +117,7 @@
 
         <div id="values" class="values members">
               <h3>Abstract Value Members</h3>
-              <ol><li name="Initialization#apply" visbl="pub" data-isabs="true" fullComment="no" group="Ungrouped">
+              <ol><li name="Initialization#apply" visbl="pub" data-isabs="true" fullComment="yes" group="Ungrouped">
       <a id="apply(domain:Domain,num_samples:Int):breeze.linalg.DenseMatrix[Double]"></a>
       <a id="apply(Domain,Int):DenseMatrix[Double]"></a>
       <h4 class="signature">
@@ -131,7 +133,8 @@
         <img src="lib/permalink.png" alt="Permalink" />
       </a>
     </span>
-      
+      <p class="shortcomment cmt">Generated a certain number of samples.</p><div class="fullcomment"><div class="comment cmt"><p>Generated a certain number of samples.
+</p></div><dl class="paramcmts block"><dt class="param">domain</dt><dd class="cmt"><p>The input space of the objective.</p></dd><dt class="param">num_samples</dt><dd class="cmt"><p>Number of points to sample.</p></dd><dt>returns</dt><dd class="cmt"><p>Vector of samples.</p></dd></dl></div>
     </li></ol>
             </div>
 
@@ -205,7 +208,7 @@
       </a>
     </span>
       <div class="fullcomment"><dl class="attributes block"> <dt>Definition Classes</dt><dd>Any</dd></dl></div>
-    </li><li name="Initialization#check_within_bounds" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+    </li><li name="Initialization#check_within_bounds" visbl="pub" data-isabs="false" fullComment="yes" group="Ungrouped">
       <a id="check_within_bounds(sample:breeze.linalg.DenseVector[Double],domain:Domain):Boolean"></a>
       <a id="check_within_bounds(DenseVector[Double],Domain):Boolean"></a>
       <h4 class="signature">
@@ -221,7 +224,10 @@
         <img src="lib/permalink.png" alt="Permalink" />
       </a>
     </span>
-      
+      <p class="shortcomment cmt">Since we can't choose bounds for certain probability distributions, we
+ need to make sure that our samples are within the input space.</p><div class="fullcomment"><div class="comment cmt"><p>Since we can't choose bounds for certain probability distributions, we
+ need to make sure that our samples are within the input space.
+</p></div><dl class="paramcmts block"><dt class="param">sample</dt><dd class="cmt"><p>Sample to investigate.</p></dd><dt class="param">domain</dt><dd class="cmt"><p>Input space of the objective.</p></dd><dt>returns</dt><dd class="cmt"><p>whether the sample is within the bounds.</p></dd></dl></div>
     </li><li name="scala.AnyRef#clone" visbl="prt" data-isabs="false" fullComment="yes" group="Ungrouped">
       <a id="clone():Object"></a>
       <a id="clone():AnyRef"></a>

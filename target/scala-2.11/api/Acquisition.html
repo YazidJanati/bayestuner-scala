@@ -49,7 +49,8 @@
       </span>
       </h4>
       
-          <div id="comment" class="fullcommenttop"><div class="toggleContainer block">
+          <div id="comment" class="fullcommenttop"><div class="comment cmt"><p>All classes inheriting from this abstract class are modeling acquisition functions.
+</p></div><div class="toggleContainer block">
           <span class="toggle">Linear Supertypes</span>
           <div class="superTypes hiddenContent"><span class="extype" name="scala.AnyRef">AnyRef</span>, <span class="extype" name="scala.Any">Any</span></div>
         </div><div class="toggleContainer block">
@@ -91,7 +92,7 @@
         <div id="allMembers">
         <div id="constructors" class="members">
               <h3>Instance Constructors</h3>
-              <ol><li name="Acquisition#&lt;init&gt;" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+              <ol><li name="Acquisition#&lt;init&gt;" visbl="pub" data-isabs="false" fullComment="yes" group="Ungrouped">
       <a id="&lt;init&gt;(i:Int,temperature:Option[Int=&gt;Double]):Acquisition"></a>
       <a id="&lt;init&gt;:Acquisition"></a>
       <h4 class="signature">
@@ -107,7 +108,7 @@
         <img src="lib/permalink.png" alt="Permalink" />
       </a>
     </span>
-      
+      <p class="shortcomment cmt"></p><div class="fullcomment"><div class="comment cmt"></div><dl class="paramcmts block"><dt class="param">i</dt><dd class="cmt"><p>parameter that controls the exploration rate.</p></dd><dt class="param">temperature</dt><dd class="cmt"><p>exploration rate. For EI it's None.</p></dd></dl></div>
     </li></ol>
             </div>
 
@@ -115,7 +116,7 @@
 
         <div id="values" class="values members">
               <h3>Abstract Value Members</h3>
-              <ol><li name="Acquisition#eval" visbl="pub" data-isabs="true" fullComment="no" group="Ungrouped">
+              <ol><li name="Acquisition#eval" visbl="pub" data-isabs="true" fullComment="yes" group="Ungrouped">
       <a id="eval(z:breeze.linalg.DenseVector[Double],gp:dk.gp.gpr.GprModel,past_evals:breeze.linalg.DenseVector[Double]):Double"></a>
       <a id="eval(DenseVector[Double],GprModel,DenseVector[Double]):Double"></a>
       <h4 class="signature">
@@ -131,7 +132,8 @@
         <img src="lib/permalink.png" alt="Permalink" />
       </a>
     </span>
-      
+      <p class="shortcomment cmt">Evaluates the acquisition function at a certain vector z.</p><div class="fullcomment"><div class="comment cmt"><p>Evaluates the acquisition function at a certain vector z.
+</p></div><dl class="paramcmts block"><dt class="param">z</dt><dd class="cmt"><p>vector at which you want to evaluate the acquisition</p></dd><dt class="param">gp</dt><dd class="cmt"><p>gaussian process from which you get the mean and variance.</p></dd><dt class="param">past_evals</dt><dd class="cmt"><p>past visited points by the bayesian tuner.</p></dd><dt>returns</dt><dd class="cmt"><p>evaluation of the acquisition at z.</p></dd></dl></div>
     </li></ol>
             </div>
 
