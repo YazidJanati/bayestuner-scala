@@ -108,3 +108,6 @@ WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/mai
 WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Initialization.scala' because it doesn't belong to a build target.
 WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Initialization.scala
 WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Optimizer.scala
+WARN  no build target: 

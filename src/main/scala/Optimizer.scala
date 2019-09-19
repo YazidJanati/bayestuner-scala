@@ -5,6 +5,15 @@ import breeze.numerics._
 import dk.gp.gpr._
 import breeze.optimize._
 
+
+/** An optimization result.
+ *
+ *  @param func_val   The best objective value found by the algorithm.
+ *  @param x          The argument of func_val.
+ *  @param pastevals  All the points that have been evaluated.
+ *  @param scores     All the scores associated to pastevals.
+ */
+
 class OptimizerResult(val func_val : Double,
                        val x : DenseVector[Double],
                        val pastevals : DenseMatrix[Double],
@@ -16,7 +25,24 @@ class OptimizerResult(val func_val : Double,
         }
 
 
+
+/** The optimizer used to maximize the acquisition. All optimizers should inherit
+ *  from this class.
+ */
+
 trait Optimizer {
+
+
+ /** Applies the optimizer (minimizer) to the acquisition.
+  *  @param acquisition  Acquisition to optimize.
+  *  @param gp           Gaussian Process.
+  *  @param past_evals   Past objective values found.
+  *  @param domain       Input space of the objective.
+  *  @param lower_bounds Each dimension's lower bound.
+  *  @param upper_bounds Each dimension's upper bound.
+  *  @return acquisition's maximum.
+  */
+
   def apply(acquisition: Acquisition,
             gp: GprModel,
             past_evals: DenseVector[Double],
@@ -25,6 +51,8 @@ trait Optimizer {
             upper_bounds: DenseVector[Double]): DenseVector[Double]
 }
 
+/** LBFGSB optimizer.
+ */
 object LBFGSB extends Optimizer {
   def apply(acquisition: Acquisition,
             gp: GprModel,
