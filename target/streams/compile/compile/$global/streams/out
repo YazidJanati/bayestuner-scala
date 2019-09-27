@@ -1,2 +1,4 @@
-[0m[[0m[33mwarn[0m] [0m[0mthere was one deprecation warning; re-run with -deprecation for details[0m
-[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala:83:43: illegal character '\u00a0'[0m
+[0m[[0m[31merror[0m] [0m[0m        optimum = lbfgs.minimize(acq,init) }[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

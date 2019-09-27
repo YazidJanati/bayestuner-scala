@@ -111,3 +111,544 @@ WARN  no build target:
 WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Optimizer.scala' because it doesn't belong to a build target.
 WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/Optimizer.scala
 WARN  no build target: 
+INFO  shutting down Metals
+INFO  time: initialize in 0.76s
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/BayesianTuner.scala
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/BayesianTuner.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Bound.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Chooser.scala
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Chooser.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Chooser.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Initialization.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Initialization.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Chooser.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Bound.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/BayesianTuner.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+WARN  no build target: 
+INFO  shutting down Metals
+INFO  time: initialize in 0.44s
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+INFO  shutting down Metals
+INFO  time: initialize in 0.46s
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/BayesianTuner.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/BayesianTuner.scala
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/BayesianTuner.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/BayesianTuner.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Bound.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.5s
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/BayesianTuner.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.55s
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Bound.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Bound.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Bound.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Bound.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Bound.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Bound.scala
+WARN  no build target: 
+INFO  shutting down Metals
+INFO  time: initialize in 0.53s
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Bound.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Initialization.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Initialization.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Chooser.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Bound.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/BayesianTuner.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Initialization.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Bound.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Chooser.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/BayesianTuner.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+sept. 20, 2019 11:36:45 AM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Initialization.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/BayesianTuner.scala
+sept. 20, 2019 2:50:24 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/BayesianTuner.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/BayesianTuner.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/BayesianTuner.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/BayesianTuner.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/BayesianTuner.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/BayesianTuner.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/BayesianTuner.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/BayesianTuner.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: 
+INFO  shutting down Metals
+INFO  time: initialize in 0.56s
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/BayesianTuner.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala
+WARN  no build target: /Users/yazidjanati/Desktop/stage/bayestuner-scala/build.sbt
+INFO  shutting down Metals
+INFO  time: initialize in 0.56s
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Chooser.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Chooser.scala
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Bound.scala
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Bound.scala
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Chooser.scala
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Initialization.scala
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Chooser.scala
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Bound.scala
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/BayesianTuner.scala
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Acquisition.scala
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Initialization.scala
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/BayesianTuner.scala
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Optimizer.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/src/main/scala/com/github/yazidjanati/Main.scala
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/build.sbt
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /Users/yazidjanati/Desktop/Bureau - MacBook Pro de Yazid/stage/bayestuner-scala/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+INFO  shutting down Metals

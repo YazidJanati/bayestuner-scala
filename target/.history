@@ -31,3 +31,16 @@ sonatypeRelease
 run 
 publishSigned
 sonatypeRelease
+run
+sonatyeStagingRepoistoryProfiles
+sonatypeStagingRepositoryProfile
+sonatypeStagingRepositoryProfiles
+sonatypeRelease 1003
+sonatype Release comgithubyazidjanati-1003
+sonatypeRelease comgithubyazidjanati-1003
+publishSigned
+sonatypeRelease
+sonatypeRelease comgithubyazidjanati-1004
+~run 
+publishSigned 
+publishSigned

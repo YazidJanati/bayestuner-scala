@@ -4,10 +4,10 @@
 	<info
 		organisation="com.github.yazidjanati"
 		module="bopt_2.11"
-		revision="0.2"
+		revision="0.3.3"
 		conf="provided"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20190919110402"/>
+		date="20190926021549"/>
 	<dependencies>
 	</dependencies>
 </ivy-report>

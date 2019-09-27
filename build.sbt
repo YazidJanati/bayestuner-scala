@@ -14,7 +14,7 @@ scalaVersion := "2.11.12"
 
 name := "bopt"
 organization := "com.LIPN"
-version := "0.2"
+version := "0.3.3"
 
 // Note, it's not required for you to define these three settings. These are
 // mostly only necessary if you intend to publish your library's binaries on a
@@ -25,15 +25,15 @@ version := "0.2"
 // You can define other libraries as dependencies in your build like this:
 libraryDependencies  ++= Seq(
   // other dependencies here
-  "org.scalanlp" %% "breeze" % "0.12",
+  "org.scalanlp" %% "breeze" % "0.13.2",
   // native libraries are not included by default. add this if you want them (as of 0.7)
   // native libraries greatly improve performance, but increase jar sizes.
   // It also packages various blas implementations, which have licenses that may or may not
   // be compatible with the Apache License. No GPL code, as best I know.
-  "org.scalanlp" %% "breeze-natives" % "0.12",
+  "org.scalanlp" %% "breeze-natives" % "0.13.2",
   // the visualization library is distributed separately as well.
   // It depends on LGPL code.
-  "org.scalanlp" %% "breeze-viz" % "0.12"
+  "org.scalanlp" %% "breeze-viz" % "0.13.2"
 )
 
 resolvers ++= Seq(
@@ -43,7 +43,7 @@ resolvers ++= Seq(
   "Sonatype Releases" at "https://oss.sonatype.org/content/repositories/releases/"
 )
 
-
+//libraryDependencies += "com.github.danielkorzekwa" %% "bayes-scala" % "0.6"
 
 libraryDependencies += "com.github.danielkorzekwa" %% "bayes-scala-gp" % "0.1-SNAPSHOT"
 
